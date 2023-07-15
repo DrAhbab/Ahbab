@@ -1,6 +1,4 @@
 ![6M8G](https://github.com/DrAhbab/Ahbab/assets/139650380/a3d95c8d-4854-4e4a-a638-27ae176676c8)
-![4gNK](https://github.com/DrAhbab/Ahbab/assets/139650380/a5b14677-d0ac-4660-bfe2-422fe96246e4)
-
 <h3 align="center">Academician | Entrepreneur | Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/4gNK.gif">
 <h1 align="center">Hi 👋, I'm Dr Ahbab</h1>
